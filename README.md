@@ -25,9 +25,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23FF5733.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-# Всякое
-![ISPmanager](https://img.shields.io/badge/ISPmanager-007EC6?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDUgNSIgc3R5bGU9ImZpbGwtcnVsZTpub256ZXJvO3N0cm9rZS13aWR0aDojMDtwYXRoIGQ9Ik00LjUsMTAuNDlMMiwuOTdsMi41LDQuNTEtMC40NCwwLjQxTDIsMy45OWwyLjQsNC41MUwxLjYsNi44NWwtMi41LC00LjUxTDEuNjEsNS43OUwyLjMsMy45OXoiLz4KPHBhdGggZD0iTTAsMGg1djVIMHoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==&logoColor=white)
-
 # Всякие статы
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga1maz&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga1maz&show_icons=true&theme=dark)
