@@ -1,6 +1,5 @@
 ### 👋 Привет, меня зовут Алмаз. Мой ник читается как Гаймаз :)
 
-
 # Языки
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +29,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # Всякие статы
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga1maz&layout=compact&theme=dark)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga1maz&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga1maz&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ga1maz&show_icons=true&theme=dark)
