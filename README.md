@@ -24,6 +24,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23FF5733.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-# Всякие статы
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga1maz&layout=compact&theme=dark)
