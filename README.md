@@ -27,7 +27,6 @@
 #### **Бэкенд-технологии**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![YooKassa](https://img.shields.io/badge/YooKassa-FFDE5C?style=for-the-badge&logo=yoomoney&logoColor=000000)
 
 #### **Базы данных**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
