@@ -11,7 +11,6 @@
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![AntD](https://img.shields.io/badge/AntD-000000?style=for-the-badge&logo=antdesign&logoColor=white)](https://ant.design/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## ⚡ Backend Development
