@@ -17,5 +17,4 @@
 
 [![Go](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
